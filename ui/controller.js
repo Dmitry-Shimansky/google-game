@@ -1,5 +1,5 @@
-import {SamuraiNumberUtility} from "./samurai-number-utility.js";
-import {Game} from "./game.js";
+import {SamuraiNumberUtility} from "../core/samurai-number-utility.js";
+import {Game} from "../core/game.js";
 
 export class Controller {
     constructor(view) {
