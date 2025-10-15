@@ -1,4 +1,4 @@
-import {GameStatuses} from "./GAME_STATUSES.js";
+import {GameStatuses} from "./game_statuses.js";
 import {SamuraiNumberUtility} from "./samurai-number-utility.js";
 import {MoveDirection} from "./move-direction.js";
 
